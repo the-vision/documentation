@@ -2,6 +2,7 @@
     "plugins": [
         "edit-link",
         "ga",
+        "github",
         "sitemap"
     ],
     "pluginsConfig": {
@@ -11,6 +12,9 @@
         },
         "ga": {
             "token": "UA-112400267-1"
+        },
+        "github": {
+            "url": "https://github.com/jarvisatyourservice/documentation"
         },
         "sitemap": {
             "hostname": "https://www.jarvisatyourservice.com/"
