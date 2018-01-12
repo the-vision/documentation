@@ -1,6 +1,13 @@
 {
-    "plugins": ["ga"],
+    "plugins": [
+        "edit-link",
+        "ga"
+    ],
     "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/jarvisatyourservice/documentation/tree/master",
+            "label": "Edit on GitHub"
+        },
         "ga": {
             "token": "UA-112400267-1"
         }
