@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [History](chapter1.md)
+* [History](history.md)
 * [The Vision](the-vision.md)
 
