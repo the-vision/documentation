@@ -1,6 +1,6 @@
 # Tenets
 
-* It should be easy for newcomers to contribute to.
+* It should be easy for newcomers to contribute to.  
   Simplicity -&gt; code should be simple to read  
   Dockerfiles -&gt; get environment set up  
   prettier -&gt; no more tabs vs spaces debate
@@ -12,6 +12,8 @@
 * Iterate based on data.  
   Add features based on community requests.  
   Modify features based on user feedback -&gt; Have an easy way for users to provide feedback.
+
+* Use Python 3! \(Python 2, thank you for your years of faithful service: [https://pythonclock.org/](https://pythonclock.org/)\)
 
 
 
