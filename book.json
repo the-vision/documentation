@@ -3,6 +3,7 @@
         "edit-link",
         "ga",
         "github",
+        "insert-logo",
         "sitemap"
     ],
     "pluginsConfig": {
@@ -15,6 +16,9 @@
         },
         "github": {
             "url": "https://github.com/the-vision/documentation"
+        },
+        "insert-logo": {
+            "url": "logo.jpg"
         },
         "sitemap": {
             "hostname": "https://www.jarvisatyourservice.com/"
