@@ -7,14 +7,14 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/jarvisatyourservice/documentation/tree/master",
+            "base": "https://github.com/the-vision/documentation/tree/master",
             "label": "Edit on GitHub"
         },
         "ga": {
             "token": "UA-112400267-1"
         },
         "github": {
-            "url": "https://github.com/jarvisatyourservice/documentation"
+            "url": "https://github.com/the-vision/documentation"
         },
         "sitemap": {
             "hostname": "https://www.jarvisatyourservice.com/"
