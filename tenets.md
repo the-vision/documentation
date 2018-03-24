@@ -17,5 +17,7 @@
 
 * Coverage: Aim for 100% \(Use TDD wherever possible.\)
 
+* Have good analytics.
+
 
 
