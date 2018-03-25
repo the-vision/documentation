@@ -7,6 +7,7 @@
 * docker
 * feedback
 * documentation
+* donate \(web server costs + feature request bounties\)
 
 
 
