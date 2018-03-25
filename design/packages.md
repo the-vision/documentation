@@ -1,4 +1,4 @@
-# Package Structure
+# Packages
 
 * jarvis-core
 * jarvis-messenger
@@ -8,6 +8,3 @@
 * feedback
 * documentation
 * donate \(web server costs + feature request bounties\)
-
-
-

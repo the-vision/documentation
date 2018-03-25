@@ -5,5 +5,4 @@
 * [The Vision](the-vision.md)
 * [Tenets](tenets.md)
 * [Design](design.md)
-  * [Package Structure](design/package-structure.md)
-
+  * [Packages](design/packages.md)
