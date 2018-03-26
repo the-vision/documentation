@@ -19,7 +19,7 @@
             "url": "https://github.com/the-vision/documentation"
         },
         "insert-logo": {
-            "url": "logo.jpg"
+            "url": "/logo.jpg"
         },
         "sitemap": {
             "hostname": "https://www.jarvisatyourservice.com/"
