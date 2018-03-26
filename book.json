@@ -3,7 +3,6 @@
         "edit-link",
         "ga",
         "github",
-        "hide-element",
         "hide-published-with",
         "insert-logo",
         "sitemap"
@@ -18,9 +17,6 @@
         },
         "github": {
             "url": "https://github.com/the-vision/documentation"
-        },
-        "hide-element": {
-            "elements": [".custom-link"]
         },
         "insert-logo": {
             "url": "logo.jpg"
