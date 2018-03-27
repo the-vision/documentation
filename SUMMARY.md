@@ -6,3 +6,5 @@
 * [Tenets](tenets.md)
 * [Design](design.md)
   * [Packages](design/packages.md)
+* [Contributing](contributing.md)
+
