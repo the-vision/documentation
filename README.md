@@ -1,3 +1,5 @@
+Join the conversation on Discord: [https://discord.gg/MsZ9N9n](https://discord.gg/MsZ9N9n)
+
 # What?
 
 J.A.R.V.I.S. is a community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks.
