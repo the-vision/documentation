@@ -2,6 +2,7 @@
 
 * [jarvis-core](https://github.com/the-vision/jarvis-core)
 * jarvis-messenger
+* jarvis-discord
 * jarvis-slack
 * jarvis-telegram
 * [docker](https://github.com/the-vision/docker)
